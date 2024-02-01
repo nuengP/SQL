@@ -14,7 +14,7 @@ Equipped with a solid foundation in SQL, built through courses on [DataRockie](h
 ![connect](https://github.com/nuengP/SQL/blob/main/Connect_Postgrt.PNG)
 
 ### SQL Skills :
-[SQL skills : DataCamp](https://laced-feast-867.notion.site/SQL-81fbb781aa764a4e82942ada15e52f45)
-[SQL 101 with DataRockie](https://laced-feast-867.notion.site/SQL-DA-101-fe34b5638d7f47d098e284d900871940?pvs=4)
-[Query Language](https://laced-feast-867.notion.site/QUERY-LANGUAGE-f3d3b63d894243769e18962f9953b279)
+[SQL skills : DataCamp](https://laced-feast-867.notion.site/SQL-81fbb781aa764a4e82942ada15e52f45)\
+[SQL 101 with DataRockie](https://laced-feast-867.notion.site/SQL-DA-101-fe34b5638d7f47d098e284d900871940?pvs=4)\
+[Query Language](https://laced-feast-867.notion.site/QUERY-LANGUAGE-f3d3b63d894243769e18962f9953b279)\
 [Process Data from dirty to clean : Google](https://laced-feast-867.notion.site/Process-Data-from-Dirty-to-Clean-4d6cdbd823ae43299f9766b24b9ad157?pvs=4)
